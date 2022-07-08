@@ -1,6 +1,6 @@
 package sec03.exam01_for;
 
-public class ForSumFrom1To100Example {
+public class ForSumFrom1to100Example {
 
 	public static void main(String[] args) {
 		/*int sum = 0;
